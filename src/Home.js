@@ -1,19 +1,7 @@
 import React from 'react'
 import'./Home.css'
-import logo from './logo.png'
 
-//import {  } from "module";
-//   //const [productData,setproductData]=useState([]);
-//   //async function getData() {
-//    // await axios.get("").then((res)
-//    // setproductData(res.data.products);
-//   //);
-    
-//   //}
-//   //useEffect(()=>{
-//     //getData();
-//   //},[]);
-//   //console.log(productData);
+
 const Home=()=>{ 
 return (
     <div>
