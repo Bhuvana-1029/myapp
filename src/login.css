@@ -1,4 +1,29 @@
-body{
+.parent{
+
+height: 100vh;
+
+width: 100vw;
+
+display: flex;
+
+align-items: center;
+
+justify-content:
+
+center;
+}
+
+.child{
+
+border: 50px;
+
+border-color: black;
+
+border-style:
+
+solid;
+}
+/* body{
     background: linear-gradient(135deg, #f8fbfd, #f6f5f8);;
     height: 100vh;
     width: 100%;
@@ -66,4 +91,4 @@ form{
     cursor: pointer;
     display: block;
     text-decoration: none;
-}
+} */
